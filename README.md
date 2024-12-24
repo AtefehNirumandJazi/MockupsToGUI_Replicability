@@ -1,7 +1,6 @@
 # Replicability Package for Mockups to GUI Generation
 
-This repository contains the data required to replicate the results presented in our paper, *"From Mock-Ups to IFML-like Models: Leveraging Large Language Models for Web Engineering."*
-
+This repository contains the data required to replicate the results presented in our study, 
 ## Structure
 
 - **Input_Data**: 
